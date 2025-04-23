@@ -73,19 +73,6 @@ This ReadMe provides complete setup instructions for running the application on 
 
 ---
 
-## 📄 Environment Setup
-
-Create a file named `.env` in the root of the project and add:
-
-```
-MYSQL_URL=your_mysql_connection_string
-ABLY_KEY=your_ably_realtime_key
-```
-
-These are required for database access and WebSocket communication.
-
----
-
 ## 📥 Clone the Repository
 
 ```bash
